@@ -1,4 +1,4 @@
-let userName = 'Stephan';
+let userName = 'Antoin';
 userName ? console.log(`Hello, ${userName}!`) :
 console.log('Hello!');
 const userQuestion = 'Will I get super powers?';
